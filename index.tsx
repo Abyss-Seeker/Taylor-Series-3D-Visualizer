@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './index.css'; // 👈 添加这行
 import App from './App';
 
 const rootElement = document.getElementById('root');
