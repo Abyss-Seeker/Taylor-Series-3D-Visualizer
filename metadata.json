@@ -1,0 +1,5 @@
+{
+  "name": "Taylor Series 3D Visualizer",
+  "description": "An interactive 3D educational tool to visualize and understand the Second Order Taylor Expansion for functions of two variables.",
+  "requestFramePermissions": []
+}
